@@ -2,6 +2,7 @@
 #define BKRUKOWSKI_ODYN_TEXT_DETECTOR_H
 
 #include "opencv2/opencv.hpp"
+#include <tesseract/baseapi.h>
 
 namespace Odyn
 {
